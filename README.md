@@ -16,7 +16,8 @@ This project compares the performance of different sorting algorithms using a da
 ### 📈 Results
 Below is the performance graph of different algorithms:
 
-![Sorting Performance](sorting_result.png)
+![Sorting Performance](./sorting_result.png)
+
 
 ### 💻 How to Run This Project
 1. Install dependencies:  
