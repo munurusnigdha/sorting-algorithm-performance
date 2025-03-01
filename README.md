@@ -18,6 +18,5 @@ Below is the performance graph of different algorithms:
 
 ![Sorting Performance](./sorting_result.png)
 
-
 ### 💻 How to Run This Project
 1. Install dependencies:  
